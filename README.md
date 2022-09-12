@@ -32,7 +32,7 @@ stable分支为稳定版，更新较慢，基本可以稳定使用，但功能�
 
 ```bash
 git clone https://github.com/Dimlitter/jd_AutoComment.git
-cd jd_AutoComment
+cd root/jd_AutoComment
 pip install -r requirements.txt
 ```
 
